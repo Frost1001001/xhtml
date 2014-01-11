@@ -1,0 +1,41 @@
+body {
+        background-image:
+                url(http://www.iammusic.tv/wp-content/uploads/2012/11/Black-background-set-wood-on-chanconsultants-jpg.jpg);
+        background-repeat: repeat-y;
+}
+
+h1 {
+        text-align: center;
+        text-decoration: underline;
+        color: red;
+}
+
+h3 {
+        color: green;
+        font-size: 20px;
+}
+
+table {
+        color: #808080;
+        margin-left: 20%;
+        margin-right: 20%;
+}
+
+thead {
+        background-color: #000000;
+}
+
+td,th {
+        text-align: left;
+        padding: 1em 1em;
+}
+
+tr:hover {
+        color: #ffa500;
+        background-color: black;
+        font-weight: bold;
+}
+
+p {
+        text-align: center;
+}
